@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    name = list('Helen')
+    print(name)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6737
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6737">JetBrains
+    Academy</a></html>
+  time: Fri, 28 Aug 2020 15:26:46 UTC
+record: -1

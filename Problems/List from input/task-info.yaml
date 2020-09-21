@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    n = int(input())
+    for _i in range(n):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6739
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6739">JetBrains
+    Academy</a></html>
+  time: Sun, 06 Sep 2020 21:00:56 UTC
+record: -1
